@@ -15,7 +15,6 @@ This is the GitHub repository for R2 and RumiCar collaboration. We’ll update a
 -	SD card
  
 ## Reference
--	RumiCar’s organizational GitHub: https://github.com/RumiCar-group
 - RumiCar Facebook group:
     - https://www.facebook.com/groups/rumicar
     - If you have questions or opinions, or just want to show other people videos what you are working on, you can post in this group. Some members might respond to you. You can post in Korean, English, or Japanese since Facebook will automatically translate.
